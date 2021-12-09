@@ -84,7 +84,7 @@ p {
     margin-left: 20px;
 }
 
-.main {
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -93,11 +93,11 @@ p {
     color: #ffffff;
 }
 
-.main img {
+.services img {
     max-height: 200px;
 }
 
-.main h2 {
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
