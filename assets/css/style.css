@@ -1,18 +1,20 @@
 
 /*Style Sheet for Horiseon SEO*/
 
+/*This styling is applied to all*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*Here is the styling for the body*/
 body {
     background-color: #d9dcd6;
 }
 
 /*Here is the header and navigation*/
-
+    /*Here is the styling for the header reading Horiseon*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -29,6 +31,7 @@ body {
     color: #d9dcd6;
 }
 
+/*Styling for the class for the navigation bar in the header*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,6 +40,7 @@ body {
     font-size: 20px;
 }
 
+/*Here is class for the unordered list in navigation bar in the header*/
 .header nav ul {
     list-style-type: none;
 }
@@ -51,8 +55,7 @@ a {
     text-decoration: none;
 }
 
-/*Here is the large banner image*/
-
+/*Here is the large banner image with styling*/
 .hero {
     height: 800px;
     width: 100%;
@@ -62,26 +65,11 @@ a {
     background-position: center;
 }
 
-/*Here is the main content of the page*/
-
+/*Here is the main content of the page with styling*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-p {
-    font-size: 16px;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 .services {
@@ -101,9 +89,24 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*Here is styling to float the images left or right*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+p {
+    font-size: 16px;
+}
 
 /*Here is the section on the right of the page*/
 
+/*Styling for the benefits section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -125,13 +128,14 @@ p {
     text-align: center;
 }
 
+/*Here is the benefit image styling*/
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/*Here is the footer of the page*/
+/*Here is the footer of the page with styling*/
 
 .footer {
     padding: 30px;
