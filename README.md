@@ -11,14 +11,28 @@
 
 * I have learned how to apply my knowledge but also be comfortable to try and test things out to make this code understandable and functional for the marketing agency, and for viewers/editers of the code. 
 
+* These are the acceptance criteria followed and revised:
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+
 # Installation 
 * To install this project, I have revised the code, pushed it to GitHub, and have deployed this project. 
 
 # Usage 
 * This site and code can be used to build similar sites, and can be used for SEO information. The website will appear as follows:
 
-'''md 
-! [alttext](/assets/images/Screenshot(5).png)
+ * [Horiseon1](./assets/images/Horiseon1.jpg)
+ * [Horiseon2](./assets/images/Horiseon2.jpg)
+ * [Horiseon3](./assets/images/Horiseon3.jpg)
 
 # Credits
 * Joanna Pastcan 
@@ -54,7 +68,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.jpg)
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
