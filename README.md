@@ -16,9 +16,11 @@
 
 # Usage 
 * This site and code can be used to build similar sites, and can be used for SEO information. The website will appear as follows:
+![Horiseon1](https://user-images.githubusercontent.com/92402053/145873696-5d399ee0-a587-4832-bef5-56dfba478715.jpg)
+![Horiseon2](https://user-images.githubusercontent.com/92402053/145873705-dd2af0eb-1683-430c-884f-4422cf10aecb.jpg)
+![Horiseon3](https://user-images.githubusercontent.com/92402053/145873717-c9cfa84f-3f78-4373-90b7-9891f0fb1b77.jpg)
 
-'''md 
-! [alttext](/assets/images/Screenshot(5).png)
+
 
 # Credits
 * Joanna Pastcan 
